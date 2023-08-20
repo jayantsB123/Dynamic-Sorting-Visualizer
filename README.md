@@ -24,3 +24,12 @@ Users may better grasp how different inputs affect the performance of different 
 
 check this website:- http://localhost:3000/sorting-visualizer
 Do like the repo...
+
+If the above link is not responding the,
+
+open the index.html in that , you've given the command to deploy this project,
+before running those command make sure you've have 'react-scripts' package install .
+
+To install that run, npm install react-scripts --save
+after that , npm run start
+
