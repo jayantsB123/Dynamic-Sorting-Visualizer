@@ -1,6 +1,6 @@
 {
   "name": "sorting-visualizer",
-  "homepage": "https://tmneth.github.io/sorting-visualizer",
+  "homepage": "http://localhost:3000/sorting-visualizer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
