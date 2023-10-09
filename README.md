@@ -1,6 +1,7 @@
 # Dynamic-Sorting-Visualizer
 Sorting Visualizer: Visualising and Investigating Algorithms
-![Uploading Screenshot (150).png…]()
+
+![Screenshot (150)](https://github.com/jayantsB123/Dynamic-Sorting-Visualizer/assets/97082996/7e3a17eb-c1b9-4326-804d-9a4fb2e0b388)
 
 A powerful tool that offers an interactive and graphical representation of several sorting methods is a sorting visualizer. 
 It provides a simple approach to comprehend and contrast the operation of various sorting techniques, assisting users in understanding the fundamental ideas and effectiveness of each algorithm. Students, programmers, and fans all use this educational resource to better grasp sorting strategies.
