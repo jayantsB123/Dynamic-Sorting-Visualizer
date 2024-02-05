@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Sorting-Visualizer/static/css/main.82e5dfaf.css",
+    "main.js": "/Dynamic-Sorting-Visualizer/static/js/main.18c9ac7e.js",
+    "index.html": "/Dynamic-Sorting-Visualizer/index.html",
+    "main.82e5dfaf.css.map": "/Dynamic-Sorting-Visualizer/static/css/main.82e5dfaf.css.map",
+    "main.18c9ac7e.js.map": "/Dynamic-Sorting-Visualizer/static/js/main.18c9ac7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e5dfaf.css",
+    "static/js/main.18c9ac7e.js"
+  ]
+}
