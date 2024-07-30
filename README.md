@@ -24,7 +24,7 @@ Users may better grasp how different inputs affect the performance of different 
 
 
 
-check this website:- http://localhost:3000/sorting-visualizer
+check this website:- http://localhost:3000/sorting-visualizer (after running :- npm i / npm start 😉)
 Do like the repo...
 
 If the above link is not responding the,
